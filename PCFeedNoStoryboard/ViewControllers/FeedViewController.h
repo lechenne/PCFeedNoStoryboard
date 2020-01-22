@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  FeedViewController.h
 //  PCFeedNoStoryboard
 //
 //  Created by Olivier Lechenne on 1/14/20.
@@ -8,7 +8,7 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
+@interface FeedViewController : UIViewController
 
 
 @end
